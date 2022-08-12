@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programthis
-- 👀 I’m interested in Meteor.js, Ruby on Rails, Unreal Engine, and more!
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Meteor.js, Ruby on Rails, Blender, Unreal Engine, and more!
+- 🌱 I’m currently learning Blender
 - 📫 How to reach me: https://www.kylebachan.com/
 
 <!---
