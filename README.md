@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @programthis
 - 👀 I’m interested in Meteor.js, Ruby on Rails, Blender, Unreal Engine, and more!
 - 🌱 I’m currently learning Blender
-- 📫 How to reach me: https://www.kylebachan.com/
+- 📫 How to reach me: https://www.behance.net/kylebachan
 
 <!---
 programthis/programthis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
